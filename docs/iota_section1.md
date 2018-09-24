@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: iota_section1
 title: document number 2
 ---
 

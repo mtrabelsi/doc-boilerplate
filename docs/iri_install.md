@@ -1,5 +1,5 @@
 ---
-id: doc5
+id: iri_install
 title: Fifth Document
 ---
 

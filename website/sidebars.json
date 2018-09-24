@@ -1,10 +1,16 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+  "IOTA.js": {
+    "Iota Intro": ["iota_intro"],
+    "Iota section 1": ["iota_section1"],
+    "Iota secontion 2": ["iota_section2"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "IRI": {
+    "Introduction": ["iri_intro"],
+    "IRI install": ["iri_install"]
+  },
+  "MAM.js": {
+    "MAM Overview": ["mam_overview"],
+    "MAM Technical": ["mam_technical"],
+    "MAM Examples": ["mam_examples"]
   }
 }

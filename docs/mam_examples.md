@@ -1,5 +1,5 @@
 ---
-id: doc4
+id: mam_examples
 title: Other Document
 ---
 
